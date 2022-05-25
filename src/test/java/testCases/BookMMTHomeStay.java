@@ -60,16 +60,9 @@ public class BookMMTHomeStay extends BaseClass {
 		clickElementByXpath("//*[@id=\"Listing_hotel_0\"]/a/div/div/div[1]/div[1]/div/div[1]/img");
 		//Thread.sleep(10000);
 		BaseClass.scrollToBottom();	
-		//BaseClass.scrollToView(selectRoom);
-	
-	//	clickElementByXpath("//a[text()='BOOK THIS NOW']");
-		
-		//clickElementByXpath("//*[@id=\"room0\"]/div[2]/div[1]/div[2]/div/div[2]/div[2]/a");
-		
+
 		Thread.sleep(5000);
-		//clickElementByXpath("//*[@id=\"root\"]/div/div[2]/div/div[2]/div[1]/div[2]/div/div[2]/form/div[1]/div[1]/span/label");
-		//enterTextById("fName", "Ratinagiri");
-		//enterTextById("lName", "R");
+		
 	}
 
 	//@AfterTest
