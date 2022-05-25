@@ -1,0 +1,6 @@
+testCases\SearchOneWayFlight.class
+testCases\BookMMTHomeStay.class
+testCases\SearchMMTActivityWithKeyword.class
+testCases\SearchMMTHomeStay.class
+testCases\SearchBuses.class
+utilities\BaseClass.class
