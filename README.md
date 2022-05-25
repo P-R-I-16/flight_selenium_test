@@ -21,3 +21,4 @@ Test cases automated for MMT are:
 ●	Customers should be able to search for train tickets on a preferred travel date. 
 ●	Customers should be able to apply filters for the prices to search for bus tickets.
 
+Note:Download and keep chromedriver.exe in the project folder for the test cases to work
